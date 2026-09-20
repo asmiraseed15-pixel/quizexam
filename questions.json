@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Which language is used for Python programming?",
+        "options": ["Python", "HTML", "CSS", "SQL"],
+        "answer": "Python"
+    },
+    {
+        "question": "Which keyword is used to create a class in Python?",
+        "options": ["function", "class", "define", "object"],
+        "answer": "class"
+    },
+    {
+        "question": "Which data type stores key-value pairs?",
+        "options": ["List", "Tuple", "Dictionary", "Set"],
+        "answer": "Dictionary"
+    },
+    {
+        "question": "Which module is used to generate random values?",
+        "options": ["math", "random", "os", "sys"],
+        "answer": "random"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions?",
+        "options": ["catch", "error", "try", "check"],
+        "answer": "try"
+    }
+]
