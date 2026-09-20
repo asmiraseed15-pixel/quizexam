@@ -33,3 +33,12 @@ quiz_exam_management/
 ├── questions.json
 ├── results.json
 └── README.md
+
+---
+
+# 7. Run Project 8
+
+In PowerShell:
+
+```powershell
+python main.py
